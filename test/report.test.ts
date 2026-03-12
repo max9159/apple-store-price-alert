@@ -69,9 +69,15 @@ test("report builders include new items, old items, empty stores, and store erro
   assert.match(markdown, /No current Mac Studio listings\./);
   assert.match(markdown, /Previous snapshot retained: 1/);
 
-  assert.match(telegram, /United States/);
-  assert.match(telegram, /Canada/);
-  assert.match(telegram, /Status: ERROR/);
-  assert.match(telegram, /Mac Studio Apple M2 Ultra/);
+  assert.match(telegram, /<b>Apple Refurbished Mac Studio Monitor<\/b>/);
+  assert.match(telegram, /Checked: 2026-03-12 15:00 Taipei/);
+  assert.match(telegram, /<b>US - United States<\/b>/);
+  assert.match(telegram, /2 listed · 1 new · 1 old/);
+  assert.match(telegram, /<a href="https:\/\/www\.apple\.com\/shop\/product\/us-new">Open listing<\/a>/);
+  assert.match(telegram, /<b>New<\/b>/);
+  assert.match(telegram, /<b>Old<\/b>/);
+  assert.match(telegram, /No Mac Studio listings right now\./);
+  assert.match(telegram, /Error: HTTP 500 Internal Server Error/);
+  assert.match(telegram, /Open store page/);
 });
 
