@@ -1,0 +1,13 @@
+{
+  "name": "apple-store-monitor",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "monitor": "node src/cli.ts",
+    "telegram": "node src/send-telegram.ts",
+    "test": "node --test --test-concurrency=1 --experimental-test-isolation=none test/all.test.ts"
+  }
+}
