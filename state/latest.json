@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-12T08:58:38.333Z",
+  "checkedAt": "2026-03-12T10:50:51.212Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -10,8 +10,8 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-12T08:58:38.333Z",
-      "totalCurrentItems": 2,
+      "checkedAt": "2026-03-12T10:50:51.212Z",
+      "totalCurrentItems": 1,
       "previousCount": 2,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
@@ -19,37 +19,21 @@
       "oldItems": [
         {
           "store": "us",
-          "listingId": "/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
-          "priceText": "$1,599.00",
-          "productUrl": "https://www.apple.com/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
-        },
-        {
-          "store": "us",
           "listingId": "/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
           "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
           "priceText": "$2,219.00",
           "productUrl": "https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ],
       "currentItems": [
         {
           "store": "us",
-          "listingId": "/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
-          "priceText": "$1,599.00",
-          "productUrl": "https://www.apple.com/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
-        },
-        {
-          "store": "us",
           "listingId": "/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
           "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
           "priceText": "$2,219.00",
           "productUrl": "https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ]
     },
@@ -58,8 +42,8 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-12T08:58:38.333Z",
-      "totalCurrentItems": 2,
+      "checkedAt": "2026-03-12T10:50:51.212Z",
+      "totalCurrentItems": 1,
       "previousCount": 2,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
@@ -67,37 +51,21 @@
       "oldItems": [
         {
           "store": "ca",
-          "listingId": "/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
-          "priceText": "$2,129.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
-        },
-        {
-          "store": "ca",
           "listingId": "/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
           "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
           "priceText": "$2,899.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ],
       "currentItems": [
         {
           "store": "ca",
-          "listingId": "/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
-          "priceText": "$2,129.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
-        },
-        {
-          "store": "ca",
           "listingId": "/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
           "title": "Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU",
           "priceText": "$2,899.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ]
     },
@@ -106,7 +74,7 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-12T08:58:38.333Z",
+      "checkedAt": "2026-03-12T10:50:51.212Z",
       "totalCurrentItems": 2,
       "previousCount": 2,
       "baselineSeeded": false,
@@ -119,7 +87,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         },
         {
           "store": "tw",
@@ -127,7 +95,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品)",
           "priceText": "NT$193,090",
           "productUrl": "https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ],
       "currentItems": [
@@ -137,7 +105,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         },
         {
           "store": "tw",
@@ -145,11 +113,11 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品)",
           "priceText": "NT$193,090",
           "productUrl": "https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-12T08:58:38.333Z"
+          "checkedAt": "2026-03-12T10:50:51.212Z"
         }
       ]
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-12T08:58:38.333Z\nGrand total: 6 listed | 0 new | 6 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 2\nNew items:\n- None\nOld items:\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $1,599.00 | https://www.apple.com/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,219.00 | https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 2\nNew items:\n- None\nOld items:\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,129.00 | https://www.apple.com/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,899.00 | https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 2\nNew items:\n- None\nOld items:\n- Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品) | NT$105,490 | https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\n- Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品) | NT$193,090 | https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-12 16:58 Taipei\nGrand total: 6 listed | 0 new | 6 old\n\n<b>US - United States</b>\n2 listed · 0 new · 2 old\n<b>New</b>: none\n\n<b>Old</b>\n1. $1,599.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n2. $2,219.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n<b>CA - Canada</b>\n2 listed · 0 new · 2 old\n<b>New</b>: none\n\n<b>Old</b>\n1. $2,129.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n2. $2,899.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n<b>TW - Taiwan</b>\n2 listed · 0 new · 2 old\n<b>New</b>: none\n\n<b>Old</b>\n1. NT$105,490\nMac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\">Open listing</a>\n\n2. NT$193,090\nMac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\">Open listing</a>"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-12T10:50:51.212Z\nGrand total: 4 listed | 0 new | 4 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 1\nNew items:\n- None\nOld items:\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,219.00 | https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 1\nNew items:\n- None\nOld items:\n- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,899.00 | https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 2\nNew items:\n- None\nOld items:\n- Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品) | NT$105,490 | https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\n- Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品) | NT$193,090 | https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-12 18:50 Taipei\nGrand total: 4 listed | 0 new | 4 old\n\n<b>US - United States</b>\n1 listed · 0 new · 1 old\n<b>New</b>: none\n\n<b>Old</b>\n1. $2,219.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n<b>CA - Canada</b>\n1 listed · 0 new · 1 old\n<b>New</b>: none\n\n<b>Old</b>\n1. $2,899.00\nRefurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu\">Open listing</a>\n\n<b>TW - Taiwan</b>\n2 listed · 0 new · 2 old\n<b>New</b>: none\n\n<b>Old</b>\n1. NT$105,490\nMac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\">Open listing</a>\n\n2. NT$193,090\nMac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 76 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g180mta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-76%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\">Open listing</a>"
 }

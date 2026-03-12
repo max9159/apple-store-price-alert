@@ -1,27 +1,25 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-03-12T08:58:38.333Z
-Grand total: 6 listed | 0 new | 6 old
+Checked at: 2026-03-12T10:50:51.212Z
+Grand total: 4 listed | 0 new | 4 old
 Telegram notification enabled for this run.
 
 ## US - United States
 Source: https://www.apple.com/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 2
+Current listings: 1
 New items:
 - None
 Old items:
-- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $1,599.00 | https://www.apple.com/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu
 - Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,219.00 | https://www.apple.com/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu
 
 ## CA - Canada
 Source: https://www.apple.com/ca/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 2
+Current listings: 1
 New items:
 - None
 Old items:
-- Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,129.00 | https://www.apple.com/ca/shop/product/g14jall/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu
 - Refurbished Mac Studio Apple M1 Max Chip with 10‑Core CPU and 32‑Core GPU | $2,899.00 | https://www.apple.com/ca/shop/product/g14jgll/a/refurbished-mac-studio-apple-m1-max-chip-with-10%E2%80%91core-cpu-and-32%E2%80%91core-gpu
 
 ## TW - Taiwan
