@@ -32,6 +32,48 @@ function formatCheckedAtForTelegram(checkedAt: string): string {
   return `${parts.get("year")}-${parts.get("month")}-${parts.get("day")} ${parts.get("hour")}:${parts.get("minute")} Taipei`;
 }
 
+function summarizeReportCounts(report: RunReport): {
+  listed: number;
+  newItems: number;
+  oldItems: number;
+  errorStores: number;
+} {
+  return report.stores.reduce(
+    (summary, store) => {
+      if (store.status === "error") {
+        summary.errorStores += 1;
+        return summary;
+      }
+
+      summary.listed += store.totalCurrentItems;
+      summary.newItems += store.newItems.length;
+      summary.oldItems += store.oldItems.length;
+      return summary;
+    },
+    {
+      listed: 0,
+      newItems: 0,
+      oldItems: 0,
+      errorStores: 0,
+    },
+  );
+}
+
+function formatTotalSummary(report: RunReport): string {
+  const summary = summarizeReportCounts(report);
+  const parts = [
+    `Grand total: ${summary.listed} listed`,
+    `${summary.newItems} new`,
+    `${summary.oldItems} old`,
+  ];
+
+  if (summary.errorStores > 0) {
+    parts.push(`${summary.errorStores} store error${summary.errorStores === 1 ? "" : "s"}`);
+  }
+
+  return parts.join(" | ");
+}
+
 function formatTelegramLink(label: string, url: string): string {
   return `<a href="${escapeTelegramHtml(url)}">${escapeTelegramHtml(label)}</a>`;
 }
@@ -164,6 +206,7 @@ export function buildMarkdownReport(report: RunReport): string {
     "# Apple Refurbished Mac Studio Monitor",
     "",
     `Checked at: ${report.checkedAt}`,
+    formatTotalSummary(report),
   ];
 
   if (report.isBaselineSeed) {
@@ -186,6 +229,7 @@ export function buildTelegramMessage(report: RunReport): string {
   const lines: string[] = [
     "<b>Apple Refurbished Mac Studio Monitor</b>",
     `Checked: ${formatCheckedAtForTelegram(report.checkedAt)}`,
+    escapeTelegramHtml(formatTotalSummary(report)),
   ];
 
   if (report.isBaselineSeed) {

@@ -68,9 +68,11 @@ test("report builders include new items, old items, empty stores, and store erro
   assert.match(markdown, /Old items:/);
   assert.match(markdown, /No current Mac Studio listings\./);
   assert.match(markdown, /Previous snapshot retained: 1/);
+  assert.match(markdown, /Grand total: 2 listed \| 1 new \| 1 old \| 1 store error/);
 
   assert.match(telegram, /<b>Apple Refurbished Mac Studio Monitor<\/b>/);
   assert.match(telegram, /Checked: 2026-03-12 15:00 Taipei/);
+  assert.match(telegram, /Grand total: 2 listed \| 1 new \| 1 old \| 1 store error/);
   assert.match(telegram, /<b>US - United States<\/b>/);
   assert.match(telegram, /2 listed · 1 new · 1 old/);
   assert.match(telegram, /<a href="https:\/\/www\.apple\.com\/shop\/product\/us-new">Open listing<\/a>/);
