@@ -3,7 +3,7 @@ name: Monitor Apple Refurbished Mac Studio
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "7 * * * *"
 
 permissions:
   contents: write
