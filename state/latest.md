@@ -1,6 +1,6 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-03-13T02:42:34.970Z
+Checked at: 2026-03-13T04:50:55.181Z
 Grand total: 1 listed | 0 new | 1 old
 Telegram notification enabled for this run.
 
