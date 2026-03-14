@@ -1,18 +1,18 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-03-14T08:45:51.222Z",
+  "updatedAt": "2026-03-14T09:41:15.503Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-03-14T08:45:51.222Z",
+      "lastSuccessfulCheckAt": "2026-03-14T09:41:15.503Z",
       "activeListings": {}
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-03-14T08:45:51.222Z",
+      "lastSuccessfulCheckAt": "2026-03-14T09:41:15.503Z",
       "activeListings": {}
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-03-14T08:45:51.222Z",
+      "lastSuccessfulCheckAt": "2026-03-14T09:41:15.503Z",
       "activeListings": {
         "/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)": {
           "store": "tw",
@@ -20,7 +20,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-14T08:45:51.222Z"
+          "checkedAt": "2026-03-14T09:41:15.503Z"
         }
       }
     }
