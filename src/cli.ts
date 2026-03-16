@@ -31,6 +31,7 @@ async function main(): Promise<void> {
     paths,
     state: nextState,
     latestArtifact,
+    writeState: report.hasDataChanged,
   });
 
   await writeGitHubOutputs({

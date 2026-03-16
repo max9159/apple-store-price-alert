@@ -65,6 +65,7 @@ export interface RunReport {
   hadPriorSuccessfulRun: boolean;
   hadAnySuccess: boolean;
   isBaselineSeed: boolean;
+  hasDataChanged: boolean;
   shouldNotify: boolean;
   stores: StoreRunReport[];
 }

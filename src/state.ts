@@ -93,9 +93,14 @@ export async function writeMonitorArtifacts(options: {
   paths: StatePaths;
   state: PersistedState;
   latestArtifact: LatestRunArtifact;
+  writeState?: boolean;
 }): Promise<void> {
   await mkdir(options.paths.stateDir, { recursive: true });
-  await writeJsonFile(options.paths.stateFile, options.state);
+
+  if (options.writeState !== false) {
+    await writeJsonFile(options.paths.stateFile, options.state);
+  }
+
   await writeJsonFile(options.paths.latestJsonFile, options.latestArtifact);
   await writeFile(options.paths.latestMarkdownFile, options.latestArtifact.markdown, "utf8");
 }

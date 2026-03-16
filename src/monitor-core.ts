@@ -51,24 +51,22 @@ function toListingRecord(listings: Listing[]): Record<string, Listing> {
   return byId;
 }
 
+function hasListingSetChanged(currentItems: Listing[], previousIds: Set<string>): boolean {
+  if (currentItems.length !== previousIds.size) {
+    return true;
+  }
+
+  return currentItems.some((listing) => !previousIds.has(listing.listingId));
+}
+
 export function buildRunOutcome(input: BuildRunOutcomeInput): BuildRunOutcomeResult {
   const hadPriorSuccessfulRun = hasPriorSuccessfulRun(input.previousState);
   const hadAnySuccess = input.fetchResults.some((result) => result.status === "ok");
   const isBaselineSeed = !hadPriorSuccessfulRun && hadAnySuccess;
   const fetchResultsByStore = new Map(input.fetchResults.map((result) => [result.store, result]));
 
-  const nextState: PersistedState = {
-    version: 1,
-    createdAt: input.previousState.createdAt || input.checkedAt,
-    updatedAt: input.checkedAt,
-    stores: {
-      us: cloneSnapshot(input.previousState.stores.us),
-      ca: cloneSnapshot(input.previousState.stores.ca),
-      tw: cloneSnapshot(input.previousState.stores.tw),
-    },
-  };
-
   const stores: StoreRunReport[] = [];
+  let anyStoreChanged = false;
 
   for (const store of STORES) {
     const fetchResult = fetchResultsByStore.get(store.code);
@@ -122,10 +120,9 @@ export function buildRunOutcome(input: BuildRunOutcomeInput): BuildRunOutcomeRes
       ? []
       : currentItems.filter((listing) => previousIds.has(listing.listingId));
 
-    nextState.stores[store.code] = {
-      lastSuccessfulCheckAt: input.checkedAt,
-      activeListings: toListingRecord(currentItems),
-    };
+    if (hasListingSetChanged(currentItems, previousIds)) {
+      anyStoreChanged = true;
+    }
 
     stores.push({
       store: store.code,
@@ -143,6 +140,32 @@ export function buildRunOutcome(input: BuildRunOutcomeInput): BuildRunOutcomeRes
     });
   }
 
+  const hasDataChanged = isBaselineSeed || anyStoreChanged;
+
+  const nextState: PersistedState = hasDataChanged
+    ? {
+        version: 1,
+        createdAt: input.previousState.createdAt || input.checkedAt,
+        updatedAt: input.checkedAt,
+        stores: {
+          us: cloneSnapshot(input.previousState.stores.us),
+          ca: cloneSnapshot(input.previousState.stores.ca),
+          tw: cloneSnapshot(input.previousState.stores.tw),
+        },
+      }
+    : input.previousState;
+
+  if (hasDataChanged) {
+    for (const storeReport of stores) {
+      if (storeReport.status === "ok") {
+        nextState.stores[storeReport.store] = {
+          lastSuccessfulCheckAt: input.checkedAt,
+          activeListings: toListingRecord(storeReport.currentItems),
+        };
+      }
+    }
+  }
+
   return {
     nextState,
     report: {
@@ -150,6 +173,7 @@ export function buildRunOutcome(input: BuildRunOutcomeInput): BuildRunOutcomeRes
       hadPriorSuccessfulRun,
       hadAnySuccess,
       isBaselineSeed,
+      hasDataChanged,
       shouldNotify: hadPriorSuccessfulRun,
       stores,
     },

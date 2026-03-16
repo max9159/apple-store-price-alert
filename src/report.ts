@@ -206,8 +206,14 @@ export function buildMarkdownReport(report: RunReport): string {
     "# Apple Refurbished Mac Studio Monitor",
     "",
     `Checked at: ${report.checkedAt}`,
-    formatTotalSummary(report),
   ];
+
+  if (!report.hasDataChanged && report.hadPriorSuccessfulRun) {
+    lines.push("No Update");
+    return `${lines.join("\n")}\n`;
+  }
+
+  lines.push(formatTotalSummary(report));
 
   if (report.isBaselineSeed) {
     lines.push("Baseline seeded on this run. Telegram notifications were skipped.");
@@ -229,8 +235,14 @@ export function buildTelegramMessage(report: RunReport): string {
   const lines: string[] = [
     "<b>Apple Refurbished Mac Studio Monitor</b>",
     `Checked: ${formatCheckedAtForTelegram(report.checkedAt)}`,
-    escapeTelegramHtml(formatTotalSummary(report)),
   ];
+
+  if (!report.hasDataChanged && report.hadPriorSuccessfulRun) {
+    lines.push("No Update");
+    return lines.join("\n").trim();
+  }
+
+  lines.push(escapeTelegramHtml(formatTotalSummary(report)));
 
   if (report.isBaselineSeed) {
     lines.push("Baseline seeded on this run.");
