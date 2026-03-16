@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-03-16T17:11:47.997Z",
+  "checkedAt": "2026-03-16T19:14:50.653Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -11,7 +11,7 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-16T17:11:47.997Z",
+      "checkedAt": "2026-03-16T19:14:50.653Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -25,7 +25,7 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-16T17:11:47.997Z",
+      "checkedAt": "2026-03-16T19:14:50.653Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -39,7 +39,7 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-16T17:11:47.997Z",
+      "checkedAt": "2026-03-16T19:14:50.653Z",
       "totalCurrentItems": 1,
       "previousCount": 1,
       "baselineSeeded": false,
@@ -52,7 +52,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-16T17:11:47.997Z"
+          "checkedAt": "2026-03-16T19:14:50.653Z"
         }
       ],
       "currentItems": [
@@ -62,11 +62,11 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-16T17:11:47.997Z"
+          "checkedAt": "2026-03-16T19:14:50.653Z"
         }
       ]
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-16T17:11:47.997Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-17 01:11 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-16T19:14:50.653Z\nNo Update\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-17 03:14 Taipei\nNo Update"
 }
