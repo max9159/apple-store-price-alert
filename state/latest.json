@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-18T13:42:44.381Z",
+  "checkedAt": "2026-03-18T15:13:17.683Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
-  "hasDataChanged": false,
+  "hasDataChanged": true,
   "shouldNotify": true,
   "stores": [
     {
@@ -11,35 +11,487 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-18T13:42:44.381Z",
-      "totalCurrentItems": 0,
+      "checkedAt": "2026-03-18T15:13:17.683Z",
+      "totalCurrentItems": 14,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
-      "newItems": [],
+      "newItems": [
+        {
+          "store": "us",
+          "listingId": "/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
+          "priceText": "Now $3,399.00",
+          "productUrl": "https://www.apple.com/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$4,669.00",
+          "productUrl": "https://www.apple.com/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$5,009.00",
+          "productUrl": "https://www.apple.com/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$6,539.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$7,899.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$1,869.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$2,209.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $1,699.00",
+          "productUrl": "https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,119.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,289.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,459.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,139.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,479.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,989.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        }
+      ],
       "oldItems": [],
-      "currentItems": []
+      "currentItems": [
+        {
+          "store": "us",
+          "listingId": "/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
+          "priceText": "Now $3,399.00",
+          "productUrl": "https://www.apple.com/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$4,669.00",
+          "productUrl": "https://www.apple.com/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$5,009.00",
+          "productUrl": "https://www.apple.com/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$6,539.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$7,899.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$1,869.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$2,209.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $1,699.00",
+          "productUrl": "https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,119.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,289.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,459.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,139.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,479.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "us",
+          "listingId": "/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,989.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        }
+      ]
     },
     {
       "store": "ca",
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-18T13:42:44.381Z",
-      "totalCurrentItems": 0,
+      "checkedAt": "2026-03-18T15:13:17.683Z",
+      "totalCurrentItems": 14,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
-      "newItems": [],
+      "newItems": [
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
+          "priceText": "Now $4,669.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$11,429.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$6,579.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$7,089.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$9,389.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$2,539.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$3,049.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $2,289.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,929.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,179.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,439.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$4,459.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$4,969.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$5,729.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        }
+      ],
       "oldItems": [],
-      "currentItems": []
+      "currentItems": [
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
+          "priceText": "Now $4,669.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$11,429.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$6,579.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$7,089.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
+          "priceText": "$9,389.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$2,539.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "$3,049.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $2,289.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,929.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,179.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$3,439.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$4,459.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$4,969.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        },
+        {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$5,729.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-18T15:13:17.683Z"
+        }
+      ]
     },
     {
       "store": "tw",
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-18T13:42:44.381Z",
+      "checkedAt": "2026-03-18T15:13:17.683Z",
       "totalCurrentItems": 1,
       "previousCount": 1,
       "baselineSeeded": false,
@@ -52,7 +504,7 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-18T13:42:44.381Z"
+          "checkedAt": "2026-03-18T15:13:17.683Z"
         }
       ],
       "currentItems": [
@@ -62,11 +514,11 @@
           "title": "Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)",
           "priceText": "NT$105,490",
           "productUrl": "https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)",
-          "checkedAt": "2026-03-18T13:42:44.381Z"
+          "checkedAt": "2026-03-18T15:13:17.683Z"
         }
       ]
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-18T13:42:44.381Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-18 21:42 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-18T15:13:17.683Z\nGrand total: 29 listed | 28 new | 1 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 14\nNew items:\n- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | Now $3,399.00 | https://www.apple.com/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $4,669.00 | https://www.apple.com/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $5,009.00 | https://www.apple.com/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $6,539.00 | https://www.apple.com/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $7,899.00 | https://www.apple.com/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $1,869.00 | https://www.apple.com/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $2,209.00 | https://www.apple.com/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | Now $1,699.00 | https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $2,119.00 | https://www.apple.com/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $2,289.00 | https://www.apple.com/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $2,459.00 | https://www.apple.com/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $3,139.00 | https://www.apple.com/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $3,479.00 | https://www.apple.com/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $3,989.00 | https://www.apple.com/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\nOld items:\n- None\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 14\nNew items:\n- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | Now $4,669.00 | https://www.apple.com/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $11,429.00 | https://www.apple.com/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $6,579.00 | https://www.apple.com/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $7,089.00 | https://www.apple.com/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $9,389.00 | https://www.apple.com/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $2,539.00 | https://www.apple.com/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $3,049.00 | https://www.apple.com/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | Now $2,289.00 | https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $2,929.00 | https://www.apple.com/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $3,179.00 | https://www.apple.com/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $3,439.00 | https://www.apple.com/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $4,459.00 | https://www.apple.com/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $4,969.00 | https://www.apple.com/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\n- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $5,729.00 | https://www.apple.com/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\nOld items:\n- None\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 1\nNew items:\n- None\nOld items:\n- Mac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品) | NT$105,490 | https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-18 23:13 Taipei\nGrand total: 29 listed | 28 new | 1 old\n\n<b>US - United States</b>\n14 listed · 14 new · 0 old\n<b>New</b>\n1. Now $3,399.00\nRefurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU\n<a href=\"https://www.apple.com/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU\">Open listing</a>\n\n2. $4,669.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n3. $5,009.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n4. $6,539.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n5. $7,899.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n6. $1,869.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n7. $2,209.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n8. Now $1,699.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n9. $2,119.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n10. $2,289.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n11. $2,459.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n12. $3,139.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n13. $3,479.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n14. $3,989.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n<b>Old</b>: none\n\n<b>CA - Canada</b>\n14 listed · 14 new · 0 old\n<b>New</b>\n1. Now $4,669.00\nRefurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU\">Open listing</a>\n\n2. $11,429.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cehll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n3. $6,579.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1ce1ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n4. $7,089.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n5. $9,389.00\nRefurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cegll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU\">Open listing</a>\n\n6. $2,539.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd3ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n7. $3,049.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n8. Now $2,289.00\nRefurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU\">Open listing</a>\n\n9. $2,929.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n10. $3,179.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd4ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n11. $3,439.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n12. $4,459.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n13. $4,969.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cdall/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n14. $5,729.00\nRefurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU\n<a href=\"https://www.apple.com/ca/shop/product/g1cdell/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU\">Open listing</a>\n\n<b>Old</b>: none\n\n<b>TW - Taiwan</b>\n1 listed · 0 new · 1 old\n<b>New</b>: none\n\n<b>Old</b>\n1. NT$105,490\nMac Studio Apple M2 Ultra 晶片配備 24 核心 CPU 與 60 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/fqh63ta/a/Mac-Studio-Apple-M2-Ultra-%E6%99%B6%E7%89%87-%E9%85%8D%E5%82%99-24%E2%80%91%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60%E2%80%91%E6%A0%B8%E5%BF%83-GPU-(%E6%95%B4%E4%BF%AE%E5%93%81)\">Open listing</a>"
 }
