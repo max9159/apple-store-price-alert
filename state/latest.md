@@ -1,24 +1,26 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-03-19T19:08:52.313Z
-Grand total: 3 listed | 2 new | 1 old
+Checked at: 2026-03-19T20:49:35.347Z
+Grand total: 1 listed | 0 new | 1 old
 Telegram notification enabled for this run.
 
 ## US - United States
 Source: https://www.apple.com/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 1
+Current listings: 0
+No current Mac Studio listings.
 New items:
-- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | Now $3,399.00 | https://www.apple.com/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU
+- None
 Old items:
 - None
 
 ## CA - Canada
 Source: https://www.apple.com/ca/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 1
+Current listings: 0
+No current Mac Studio listings.
 New items:
-- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | Now $4,669.00 | https://www.apple.com/ca/shop/product/fu973ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU
+- None
 Old items:
 - None
 
