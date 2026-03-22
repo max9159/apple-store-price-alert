@@ -1,18 +1,36 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-03-21T20:35:48.442Z",
+  "updatedAt": "2026-03-22T16:39:36.225Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-03-21T20:35:48.442Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-03-22T16:39:36.225Z",
+      "activeListings": {
+        "/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU": {
+          "store": "us",
+          "listingId": "/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M2 Max Chip with 12‑Core CPU and 30‑Core GPU",
+          "priceText": "Now $1,529.00",
+          "productUrl": "https://www.apple.com/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-22T16:39:36.225Z"
+        }
+      }
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-03-21T20:35:48.442Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-03-22T16:39:36.225Z",
+      "activeListings": {
+        "/ca/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU": {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M2 Max Chip with 12‑Core CPU and 30‑Core GPU",
+          "priceText": "Now $2,059.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fqh73ll/a/Refurbished-Mac-Studio-Apple-M2-Max-Chip-with-12%E2%80%91Core-CPU-and-30%E2%80%91Core-GPU",
+          "checkedAt": "2026-03-22T16:39:36.225Z"
+        }
+      }
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-03-21T20:35:48.442Z",
+      "lastSuccessfulCheckAt": "2026-03-22T16:39:36.225Z",
       "activeListings": {}
     }
   }
