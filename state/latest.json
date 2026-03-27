@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-03-27T10:00:18.923Z",
+  "checkedAt": "2026-03-27T10:56:08.572Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
-  "hasDataChanged": false,
+  "hasDataChanged": true,
   "shouldNotify": true,
   "stores": [
     {
@@ -11,71 +11,35 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-27T10:00:18.923Z",
-      "totalCurrentItems": 1,
+      "checkedAt": "2026-03-27T10:56:08.572Z",
+      "totalCurrentItems": 0,
       "previousCount": 1,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
-      "oldItems": [
-        {
-          "store": "us",
-          "listingId": "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
-          "priceText": "Now $1,699.00",
-          "productUrl": "https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "checkedAt": "2026-03-27T10:00:18.923Z"
-        }
-      ],
-      "currentItems": [
-        {
-          "store": "us",
-          "listingId": "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
-          "priceText": "Now $1,699.00",
-          "productUrl": "https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "checkedAt": "2026-03-27T10:00:18.923Z"
-        }
-      ]
+      "oldItems": [],
+      "currentItems": []
     },
     {
       "store": "ca",
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-27T10:00:18.923Z",
-      "totalCurrentItems": 1,
+      "checkedAt": "2026-03-27T10:56:08.572Z",
+      "totalCurrentItems": 0,
       "previousCount": 1,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
-      "oldItems": [
-        {
-          "store": "ca",
-          "listingId": "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
-          "priceText": "Now $2,289.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "checkedAt": "2026-03-27T10:00:18.923Z"
-        }
-      ],
-      "currentItems": [
-        {
-          "store": "ca",
-          "listingId": "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
-          "priceText": "Now $2,289.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
-          "checkedAt": "2026-03-27T10:00:18.923Z"
-        }
-      ]
+      "oldItems": [],
+      "currentItems": []
     },
     {
       "store": "tw",
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-03-27T10:00:18.923Z",
+      "checkedAt": "2026-03-27T10:56:08.572Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -85,6 +49,6 @@
       "currentItems": []
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-27T10:00:18.923Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-27 18:00 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-03-27T10:56:08.572Z\nGrand total: 0 listed | 0 new | 0 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-03-27 18:56 Taipei\nGrand total: 0 listed | 0 new | 0 old\n\n<b>US - United States</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>CA - Canada</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/ca/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>TW - Taiwan</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/tw/shop/refurbished/mac/mac-studio\">Open store page</a>"
 }
