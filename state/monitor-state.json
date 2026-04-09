@@ -1,36 +1,18 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-04-09T05:19:04.997Z",
+  "updatedAt": "2026-04-09T07:49:11.717Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-04-09T05:19:04.997Z",
-      "activeListings": {
-        "/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU": {
-          "store": "us",
-          "listingId": "/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
-          "priceText": "$4,759.00",
-          "productUrl": "https://www.apple.com/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
-          "checkedAt": "2026-04-09T05:19:04.997Z"
-        }
-      }
+      "lastSuccessfulCheckAt": "2026-04-09T07:49:11.717Z",
+      "activeListings": {}
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-04-09T05:19:04.997Z",
-      "activeListings": {
-        "/ca/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU": {
-          "store": "ca",
-          "listingId": "/ca/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU",
-          "priceText": "$6,709.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/g1ce0ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU",
-          "checkedAt": "2026-04-09T05:19:04.997Z"
-        }
-      }
+      "lastSuccessfulCheckAt": "2026-04-09T07:49:11.717Z",
+      "activeListings": {}
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-04-09T05:19:04.997Z",
+      "lastSuccessfulCheckAt": "2026-04-09T07:49:11.717Z",
       "activeListings": {}
     }
   }
