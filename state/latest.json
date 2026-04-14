@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-04-14T03:28:07.290Z",
+  "checkedAt": "2026-04-14T06:04:59.499Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -11,7 +11,7 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-04-14T03:28:07.290Z",
+      "checkedAt": "2026-04-14T06:04:59.499Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -25,7 +25,7 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-04-14T03:28:07.290Z",
+      "checkedAt": "2026-04-14T06:04:59.499Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -39,7 +39,7 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-04-14T03:28:07.290Z",
+      "checkedAt": "2026-04-14T06:04:59.499Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -49,6 +49,6 @@
       "currentItems": []
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-04-14T03:28:07.290Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-04-14 11:28 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-04-14T06:04:59.499Z\nNo Update\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-04-14 14:04 Taipei\nNo Update"
 }
