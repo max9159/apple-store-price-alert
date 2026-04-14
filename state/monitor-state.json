@@ -1,18 +1,27 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-04-10T21:48:42.610Z",
+  "updatedAt": "2026-04-14T14:02:08.698Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-04-10T21:48:42.610Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-04-14T14:02:08.698Z",
+      "activeListings": {
+        "/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU": {
+          "store": "us",
+          "listingId": "/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,459.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd5ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-04-14T14:02:08.698Z"
+        }
+      }
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-04-10T21:48:42.610Z",
+      "lastSuccessfulCheckAt": "2026-04-14T14:02:08.698Z",
       "activeListings": {}
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-04-10T21:48:42.610Z",
+      "lastSuccessfulCheckAt": "2026-04-14T14:02:08.698Z",
       "activeListings": {}
     }
   }
