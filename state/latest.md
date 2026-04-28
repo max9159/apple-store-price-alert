@@ -1,35 +1,4 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-04-28T22:05:20.859Z
-Grand total: 0 listed | 0 new | 0 old
-Telegram notification enabled for this run.
-
-## US - United States
-Source: https://www.apple.com/shop/refurbished/mac/mac-studio
-Status: OK
-Current listings: 0
-No current Mac Studio listings.
-New items:
-- None
-Old items:
-- None
-
-## CA - Canada
-Source: https://www.apple.com/ca/shop/refurbished/mac/mac-studio
-Status: OK
-Current listings: 0
-No current Mac Studio listings.
-New items:
-- None
-Old items:
-- None
-
-## TW - Taiwan
-Source: https://www.apple.com/tw/shop/refurbished/mac/mac-studio
-Status: OK
-Current listings: 0
-No current Mac Studio listings.
-New items:
-- None
-Old items:
-- None
+Checked at: 2026-04-28T23:04:31.923Z
+No Update
