@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-05-04T06:46:19.206Z",
+  "checkedAt": "2026-05-04T09:27:30.883Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
-  "hasDataChanged": false,
+  "hasDataChanged": true,
   "shouldNotify": true,
   "stores": [
     {
@@ -11,7 +11,7 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T06:46:19.206Z",
+      "checkedAt": "2026-05-04T09:27:30.883Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -25,7 +25,7 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T06:46:19.206Z",
+      "checkedAt": "2026-05-04T09:27:30.883Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -39,16 +39,98 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T06:46:19.206Z",
-      "totalCurrentItems": 0,
+      "checkedAt": "2026-05-04T09:27:30.883Z",
+      "totalCurrentItems": 5,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
-      "newItems": [],
+      "newItems": [
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M3 Ultra 晶片配備 28 核心 CPU 與 60 核心 GPU (整修品)",
+          "priceText": "NT$193,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)",
+          "priceText": "NT$57,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$137,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$84,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$96,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        }
+      ],
       "oldItems": [],
-      "currentItems": []
+      "currentItems": [
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M3 Ultra 晶片配備 28 核心 CPU 與 60 核心 GPU (整修品)",
+          "priceText": "NT$193,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)",
+          "priceText": "NT$57,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$137,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$84,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        },
+        {
+          "store": "tw",
+          "listingId": "/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "title": "Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)",
+          "priceText": "NT$96,900",
+          "productUrl": "https://www.apple.com/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
+          "checkedAt": "2026-05-04T09:27:30.883Z"
+        }
+      ]
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-05-04T06:46:19.206Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-05-04 14:46 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-05-04T09:27:30.883Z\nGrand total: 5 listed | 5 new | 0 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 5\nNew items:\n- Mac Studio Apple M3 Ultra 晶片配備 28 核心 CPU 與 60 核心 GPU (整修品) | NT$193,900 | https://www.apple.com/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\n- Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品) | NT$57,900 | https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\n- Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品) | NT$137,900 | https://www.apple.com/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\n- Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品) | NT$84,900 | https://www.apple.com/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\n- Mac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品) | NT$96,900 | https://www.apple.com/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\nOld items:\n- None\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-05-04 17:27 Taipei\nGrand total: 5 listed | 5 new | 0 old\n\n<b>US - United States</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>CA - Canada</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/ca/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>TW - Taiwan</b>\n5 listed · 5 new · 0 old\n<b>New</b>\n1. NT$193,900\nMac Studio Apple M3 Ultra 晶片配備 28 核心 CPU 與 60 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g1ceata/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>\n\n2. NT$57,900\nMac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>\n\n3. NT$137,900\nMac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g1cdeta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>\n\n4. NT$84,900\nMac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g1cd5ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>\n\n5. NT$96,900\nMac Studio Apple M4 Max 晶片配備 16 核心 CPU 與 40 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/g1cd9ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-16-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-40-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>\n\n<b>Old</b>: none"
 }
