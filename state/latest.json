@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-04T11:56:23.480Z",
+  "checkedAt": "2026-05-04T14:20:14.339Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -11,7 +11,7 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T11:56:23.480Z",
+      "checkedAt": "2026-05-04T14:20:14.339Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -25,7 +25,7 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T11:56:23.480Z",
+      "checkedAt": "2026-05-04T14:20:14.339Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -39,34 +39,16 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-05-04T11:56:23.480Z",
-      "totalCurrentItems": 1,
-      "previousCount": 5,
+      "checkedAt": "2026-05-04T14:20:14.339Z",
+      "totalCurrentItems": 0,
+      "previousCount": 1,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
-      "oldItems": [
-        {
-          "store": "tw",
-          "listingId": "/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
-          "title": "Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)",
-          "priceText": "NT$57,900",
-          "productUrl": "https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
-          "checkedAt": "2026-05-04T11:56:23.480Z"
-        }
-      ],
-      "currentItems": [
-        {
-          "store": "tw",
-          "listingId": "/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
-          "title": "Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)",
-          "priceText": "NT$57,900",
-          "productUrl": "https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81",
-          "checkedAt": "2026-05-04T11:56:23.480Z"
-        }
-      ]
+      "oldItems": [],
+      "currentItems": []
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-05-04T11:56:23.480Z\nGrand total: 1 listed | 0 new | 1 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 1\nNew items:\n- None\nOld items:\n- Mac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品) | NT$57,900 | https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-05-04 19:56 Taipei\nGrand total: 1 listed | 0 new | 1 old\n\n<b>US - United States</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>CA - Canada</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/ca/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>TW - Taiwan</b>\n1 listed · 0 new · 1 old\n<b>New</b>: none\n\n<b>Old</b>\n1. NT$57,900\nMac Studio Apple M4 Max 晶片配備 14 核心 CPU 與 32 核心 GPU (整修品)\n<a href=\"https://www.apple.com/tw/shop/product/fu963ta/a/Mac-Studio-Apple-M4-Max-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-14-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-32-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81\">Open listing</a>"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-05-04T14:20:14.339Z\nGrand total: 0 listed | 0 new | 0 old\nTelegram notification enabled for this run.\n\n## US - United States\nSource: https://www.apple.com/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## CA - Canada\nSource: https://www.apple.com/ca/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n\n## TW - Taiwan\nSource: https://www.apple.com/tw/shop/refurbished/mac/mac-studio\nStatus: OK\nCurrent listings: 0\nNo current Mac Studio listings.\nNew items:\n- None\nOld items:\n- None\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-05-04 22:20 Taipei\nGrand total: 0 listed | 0 new | 0 old\n\n<b>US - United States</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>CA - Canada</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/ca/shop/refurbished/mac/mac-studio\">Open store page</a>\n\n<b>TW - Taiwan</b>\n0 listed · 0 new · 0 old\nNo Mac Studio listings right now.\n<a href=\"https://www.apple.com/tw/shop/refurbished/mac/mac-studio\">Open store page</a>"
 }
