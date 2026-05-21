@@ -1,28 +1,26 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-05-21T20:53:43.988Z
-Grand total: 6 listed | 6 new | 0 old
+Checked at: 2026-05-21T22:23:54.172Z
+Grand total: 0 listed | 0 new | 0 old
 Telegram notification enabled for this run.
 
 ## US - United States
 Source: https://www.apple.com/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 3
+Current listings: 0
+No current Mac Studio listings.
 New items:
-- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | $4,249.00 | https://www.apple.com/shop/product/g1ce9ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU
-- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $2,209.00 | https://www.apple.com/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU
-- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | Now $1,699.00 | https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU
+- None
 Old items:
 - None
 
 ## CA - Canada
 Source: https://www.apple.com/ca/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 3
+Current listings: 0
+No current Mac Studio listings.
 New items:
-- Refurbished Mac Studio Apple M3 Ultra chip with 28‑Core CPU and 60‑Core GPU | $5,939.00 | https://www.apple.com/ca/shop/product/g1ce9ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-28%E2%80%91Core-CPU-and-60%E2%80%91Core-GPU
-- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | $3,049.00 | https://www.apple.com/ca/shop/product/g1cd7ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU
-- Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU | Now $2,289.00 | https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU
+- None
 Old items:
 - None
 
