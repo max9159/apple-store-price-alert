@@ -1,18 +1,36 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-05-23T21:01:25.243Z",
+  "updatedAt": "2026-05-27T04:26:28.676Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-05-23T21:01:25.243Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-05-27T04:26:28.676Z",
+      "activeListings": {
+        "/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU": {
+          "store": "us",
+          "listingId": "/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,119.00",
+          "productUrl": "https://www.apple.com/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-05-27T04:26:28.676Z"
+        }
+      }
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-05-23T21:01:25.243Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-05-27T04:26:28.676Z",
+      "activeListings": {
+        "/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU": {
+          "store": "ca",
+          "listingId": "/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU",
+          "priceText": "$2,929.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/g1cd0ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU",
+          "checkedAt": "2026-05-27T04:26:28.676Z"
+        }
+      }
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-05-23T21:01:25.243Z",
+      "lastSuccessfulCheckAt": "2026-05-27T04:26:28.676Z",
       "activeListings": {}
     }
   }
