@@ -1,7 +1,7 @@
 {
-  "checkedAt": "2026-06-19T22:09:45.636Z",
+  "checkedAt": "2026-06-20T00:15:39.202Z",
   "hadPriorSuccessfulRun": true,
-  "hadAnySuccess": false,
+  "hadAnySuccess": true,
   "isBaselineSeed": false,
   "hasDataChanged": false,
   "shouldNotify": true,
@@ -10,48 +10,45 @@
       "store": "us",
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
-      "status": "error",
-      "checkedAt": "2026-06-19T22:09:45.636Z",
+      "status": "ok",
+      "checkedAt": "2026-06-20T00:15:39.202Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
       "oldItems": [],
-      "currentItems": [],
-      "error": "Apple refurb bootstrap payload does not contain tiles."
+      "currentItems": []
     },
     {
       "store": "ca",
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
-      "status": "error",
-      "checkedAt": "2026-06-19T22:09:45.636Z",
+      "status": "ok",
+      "checkedAt": "2026-06-20T00:15:39.202Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
       "oldItems": [],
-      "currentItems": [],
-      "error": "Apple refurb bootstrap payload does not contain tiles."
+      "currentItems": []
     },
     {
       "store": "tw",
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
-      "status": "error",
-      "checkedAt": "2026-06-19T22:09:45.636Z",
+      "status": "ok",
+      "checkedAt": "2026-06-20T00:15:39.202Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
       "oldItems": [],
-      "currentItems": [],
-      "error": "Apple refurb bootstrap payload does not contain tiles."
+      "currentItems": []
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-06-19T22:09:45.636Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-06-20 06:09 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-06-20T00:15:39.202Z\nNo Update\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-06-20 08:15 Taipei\nNo Update"
 }
