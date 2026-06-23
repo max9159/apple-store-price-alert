@@ -1,7 +1,7 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-06-23T09:56:18.619Z
-Grand total: 1 listed | 1 new | 0 old
+Checked at: 2026-06-23T12:39:53.303Z
+Grand total: 0 listed | 0 new | 0 old
 Telegram notification enabled for this run.
 
 ## US - United States
@@ -27,8 +27,9 @@ Old items:
 ## TW - Taiwan
 Source: https://www.apple.com/tw/shop/refurbished/mac/mac-studio
 Status: OK
-Current listings: 1
+Current listings: 0
+No current Mac Studio listings.
 New items:
-- Mac Studio Apple M3 Ultra 晶片配備 28 核心 CPU 與 60 核心 GPU (整修品) | NT$116,900 | https://www.apple.com/tw/shop/product/fu973ta/a/Mac-Studio-Apple-M3-Ultra-%E6%99%B6%E7%89%87%E9%85%8D%E5%82%99-28-%E6%A0%B8%E5%BF%83-CPU-%E8%88%87-60-%E6%A0%B8%E5%BF%83-GPU-%E6%95%B4%E4%BF%AE%E5%93%81
+- None
 Old items:
 - None
