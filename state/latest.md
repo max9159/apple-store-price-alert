@@ -1,6 +1,6 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-07-02T20:22:58.245Z
+Checked at: 2026-07-02T22:13:03.159Z
 Grand total: 2 listed | 2 new | 0 old
 Telegram notification enabled for this run.
 
@@ -9,7 +9,7 @@ Source: https://www.apple.com/shop/refurbished/mac/mac-studio
 Status: OK
 Current listings: 1
 New items:
-- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $4,579.00 | https://www.apple.com/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU
+- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $10,449.00 | https://www.apple.com/shop/product/g1cecll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU
 Old items:
 - None
 
@@ -18,7 +18,7 @@ Source: https://www.apple.com/ca/shop/refurbished/mac/mac-studio
 Status: OK
 Current listings: 1
 New items:
-- Refurbished Mac Studio Apple M4 Max chip with 16‑Core CPU and 40‑Core GPU | $6,669.00 | https://www.apple.com/ca/shop/product/g1cd6ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-16%E2%80%91Core-CPU-and-40%E2%80%91Core-GPU
+- Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU | $15,289.00 | https://www.apple.com/ca/shop/product/g1cecll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU
 Old items:
 - None
 
