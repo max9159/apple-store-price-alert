@@ -1,18 +1,36 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-07-15T06:21:05.498Z",
+  "updatedAt": "2026-07-18T03:12:35.881Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-07-15T06:21:05.498Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-07-18T03:12:35.881Z",
+      "activeListings": {
+        "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU": {
+          "store": "us",
+          "listingId": "/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $2,119.00",
+          "productUrl": "https://www.apple.com/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-07-18T03:12:35.881Z"
+        }
+      }
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-07-15T06:21:05.498Z",
-      "activeListings": {}
+      "lastSuccessfulCheckAt": "2026-07-18T03:12:35.881Z",
+      "activeListings": {
+        "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU": {
+          "store": "ca",
+          "listingId": "/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "title": "Refurbished Mac Studio Apple M4 Max chip with 14‑Core CPU and 32‑Core GPU",
+          "priceText": "Now $2,969.00",
+          "productUrl": "https://www.apple.com/ca/shop/product/fu963ll/a/Refurbished-Mac-Studio-Apple-M4-Max-chip-with-14%E2%80%91Core-CPU-and-32%E2%80%91Core-GPU",
+          "checkedAt": "2026-07-18T03:12:35.881Z"
+        }
+      }
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-07-15T06:21:05.498Z",
+      "lastSuccessfulCheckAt": "2026-07-18T03:12:35.881Z",
       "activeListings": {}
     }
   }
