@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T14:08:40.969Z",
+  "checkedAt": "2026-07-21T16:26:35.695Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -10,22 +10,23 @@
       "store": "us",
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
-      "status": "ok",
-      "checkedAt": "2026-07-21T14:08:40.969Z",
+      "status": "error",
+      "checkedAt": "2026-07-21T16:26:35.695Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
       "oldItems": [],
-      "currentItems": []
+      "currentItems": [],
+      "error": "fetch failed"
     },
     {
       "store": "ca",
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-07-21T14:08:40.969Z",
+      "checkedAt": "2026-07-21T16:26:35.695Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -38,17 +39,18 @@
       "store": "tw",
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
-      "status": "ok",
-      "checkedAt": "2026-07-21T14:08:40.969Z",
+      "status": "error",
+      "checkedAt": "2026-07-21T16:26:35.695Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
       "retainedSnapshotCount": 0,
       "newItems": [],
       "oldItems": [],
-      "currentItems": []
+      "currentItems": [],
+      "error": "fetch failed"
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-07-21T14:08:40.969Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-07-21 22:08 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-07-21T16:26:35.695Z\nNo Update\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-07-22 00:26 Taipei\nNo Update"
 }
