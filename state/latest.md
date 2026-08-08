@@ -1,4 +1,4 @@
 # Apple Refurbished Mac Studio Monitor
 
-Checked at: 2026-08-07T23:38:48.248Z
+Checked at: 2026-08-08T02:04:07.012Z
 No Update
