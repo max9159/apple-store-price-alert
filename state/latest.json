@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T20:54:47.720Z",
+  "checkedAt": "2026-09-01T23:12:48.179Z",
   "hadPriorSuccessfulRun": true,
   "hadAnySuccess": true,
   "isBaselineSeed": false,
@@ -11,7 +11,7 @@
       "storeName": "United States",
       "sourceUrl": "https://www.apple.com/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-09-01T20:54:47.720Z",
+      "checkedAt": "2026-09-01T23:12:48.179Z",
       "totalCurrentItems": 1,
       "previousCount": 1,
       "baselineSeeded": false,
@@ -24,7 +24,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$11,979.00",
           "productUrl": "https://www.apple.com/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-01T20:54:47.720Z"
+          "checkedAt": "2026-09-01T23:12:48.179Z"
         }
       ],
       "currentItems": [
@@ -34,7 +34,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$11,979.00",
           "productUrl": "https://www.apple.com/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-01T20:54:47.720Z"
+          "checkedAt": "2026-09-01T23:12:48.179Z"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "storeName": "Canada",
       "sourceUrl": "https://www.apple.com/ca/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-09-01T20:54:47.720Z",
+      "checkedAt": "2026-09-01T23:12:48.179Z",
       "totalCurrentItems": 1,
       "previousCount": 1,
       "baselineSeeded": false,
@@ -56,7 +56,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$17,609.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-01T20:54:47.720Z"
+          "checkedAt": "2026-09-01T23:12:48.179Z"
         }
       ],
       "currentItems": [
@@ -66,7 +66,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$17,609.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-01T20:54:47.720Z"
+          "checkedAt": "2026-09-01T23:12:48.179Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
       "storeName": "Taiwan",
       "sourceUrl": "https://www.apple.com/tw/shop/refurbished/mac/mac-studio",
       "status": "ok",
-      "checkedAt": "2026-09-01T20:54:47.720Z",
+      "checkedAt": "2026-09-01T23:12:48.179Z",
       "totalCurrentItems": 0,
       "previousCount": 0,
       "baselineSeeded": false,
@@ -85,6 +85,6 @@
       "currentItems": []
     }
   ],
-  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-09-01T20:54:47.720Z\nNo Update\n",
-  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-09-02 04:54 Taipei\nNo Update"
+  "markdown": "# Apple Refurbished Mac Studio Monitor\n\nChecked at: 2026-09-01T23:12:48.179Z\nNo Update\n",
+  "telegramMessage": "<b>Apple Refurbished Mac Studio Monitor</b>\nChecked: 2026-09-02 07:12 Taipei\nNo Update"
 }
