@@ -1,10 +1,10 @@
 {
   "version": 1,
   "createdAt": "2026-03-12T08:33:10.248Z",
-  "updatedAt": "2026-09-03T17:45:33.968Z",
+  "updatedAt": "2026-09-04T08:47:51.690Z",
   "stores": {
     "us": {
-      "lastSuccessfulCheckAt": "2026-09-03T17:45:33.968Z",
+      "lastSuccessfulCheckAt": "2026-09-04T08:47:51.690Z",
       "activeListings": {
         "/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
           "store": "us",
@@ -12,15 +12,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$11,979.00",
           "productUrl": "https://www.apple.com/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
-        },
-        "/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
-          "store": "us",
-          "listingId": "/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
-          "priceText": "$6,029.00",
-          "productUrl": "https://www.apple.com/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
+          "checkedAt": "2026-09-04T08:47:51.690Z"
         },
         "/shop/product/g1cebll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
           "store": "us",
@@ -28,12 +20,12 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$6,879.00",
           "productUrl": "https://www.apple.com/shop/product/g1cebll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
+          "checkedAt": "2026-09-04T08:47:51.690Z"
         }
       }
     },
     "ca": {
-      "lastSuccessfulCheckAt": "2026-09-03T17:45:33.968Z",
+      "lastSuccessfulCheckAt": "2026-09-04T08:47:51.690Z",
       "activeListings": {
         "/ca/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
           "store": "ca",
@@ -41,15 +33,7 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$17,609.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g1cemll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
-        },
-        "/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
-          "store": "ca",
-          "listingId": "/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
-          "priceText": "$8,689.00",
-          "productUrl": "https://www.apple.com/ca/shop/product/g1ce6ll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
+          "checkedAt": "2026-09-04T08:47:51.690Z"
         },
         "/ca/shop/product/g1cebll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU": {
           "store": "ca",
@@ -57,12 +41,12 @@
           "title": "Refurbished Mac Studio Apple M3 Ultra chip with 32‑Core CPU and 80‑Core GPU",
           "priceText": "$9,959.00",
           "productUrl": "https://www.apple.com/ca/shop/product/g1cebll/a/Refurbished-Mac-Studio-Apple-M3-Ultra-chip-with-32%E2%80%91Core-CPU-and-80%E2%80%91Core-GPU",
-          "checkedAt": "2026-09-03T17:45:33.968Z"
+          "checkedAt": "2026-09-04T08:47:51.690Z"
         }
       }
     },
     "tw": {
-      "lastSuccessfulCheckAt": "2026-09-03T17:45:33.968Z",
+      "lastSuccessfulCheckAt": "2026-09-04T08:47:51.690Z",
       "activeListings": {}
     }
   }
